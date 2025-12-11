@@ -2,8 +2,10 @@
 # HR Employee Attrition – SQL Project
 
 This project contains a full SQL workflow built using the **HR Employee Attrition dataset**.  
-It includes data ingestion, schema design, cleaning, analysis queries, and insight generation.
+This project analyzes the HR Employee Attrition dataset using SQL.  
+It demonstrates database design, data import, data quality checks, exploratory analysis, and advanced SQL techniques such as CTEs, window functions, self joins, CASE expressions, and aggregations.
 
+The goal is to understand employee behavior, attrition patterns, and HR-related insights using SQL only.
 ---
 
 ## Project Structure
